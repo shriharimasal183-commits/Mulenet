@@ -30,29 +30,6 @@ Accounts are represented as nodes, and transactions are represented as edges. Gr
 - `dashboard/`: Streamlit dashboard
 - `outputs/`: Network visualization output
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/shriharimasal183-commits/Mulenet.git
-cd Mulenet
-```
-
-Create and activate a virtual environment on Windows:
-
-```powershell
-python -m venv .venv
-.venv\Scripts\Activate.ps1
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Note: Create `requirements.txt` before running the installation command.
 
 ## Dataset
 The dataset is not included in this repository because of its large size.
